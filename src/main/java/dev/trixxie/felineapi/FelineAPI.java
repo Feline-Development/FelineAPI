@@ -18,6 +18,7 @@ public final class FelineAPI {
     /**
      * Calculate total experience based on level
      *
+     *
      * @param level the level
      * @return the total experience calculated
      */
