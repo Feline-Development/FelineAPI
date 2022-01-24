@@ -3,7 +3,7 @@ package dev.trixxie.felineapi;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 
-public final class FelineAPI {
+public class FelineAPI {
 
     /**
      * Calculate player's total experience based on level and progress to next level

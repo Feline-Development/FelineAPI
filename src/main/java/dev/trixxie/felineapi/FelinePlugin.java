@@ -2,7 +2,7 @@ package dev.trixxie.felineapi;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class FelinePlugin extends JavaPlugin {
+public final class FelinePlugin extends JavaPlugin {
 
 
     static FelinePlugin instance;
