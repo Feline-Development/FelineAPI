@@ -1,0 +1,6 @@
+name: FelineAPI
+version: '${project.version}'
+main: dev.trixxie.felineapi.FelineAPI
+api-version: 1.18
+authors: [ Trixxie ]
+description: Makes plugin development a lot easier
