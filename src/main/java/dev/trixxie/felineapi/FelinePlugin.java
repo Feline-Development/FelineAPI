@@ -1,12 +1,13 @@
 package dev.trixxie.felineapi;
 
+import dev.trixxie.felineapi.utility.ExperienceUtility;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class FelinePlugin extends JavaPlugin {
 
 
     static FelinePlugin instance;
-    FelineAPI felineAPI = new FelineAPI();
+    ExperienceUtility felineAPI = new ExperienceUtility();
 
     @Override
     public void onLoad() {
