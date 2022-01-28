@@ -17,7 +17,7 @@ You can find basic functions, classes and everything from [wiki](https://github.
 <dependency>
   <groupId>com.github.NotTrixxie</groupId>
   <artifactId>FelineAPI</artifactId>
-  <version>1.0</version>
+  <version>VERSION</version>
 </dependency>
 ```
 
