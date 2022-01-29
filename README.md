@@ -3,7 +3,7 @@
 
 
 ## How to use?
-You can find basic functions, classes and everything from [wiki](https://github.com/NotTrixxie/FelineAPI/wiki).
+You can find basic functions, classes and everything from [JavaDocs](https://nottrixxie.github.io).
 
 
 ### Maven
