@@ -1,6 +1,6 @@
-package dev.trixxie.felineapi;
+package com.felinedevelopment.felineapi;
 
-import dev.trixxie.felineapi.utility.ExperienceUtility;
+import com.felinedevelopment.felineapi.utility.ExperienceUtility;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class FelinePlugin extends JavaPlugin {

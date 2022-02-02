@@ -1,4 +1,4 @@
-package dev.trixxie.felineapi.utility;
+package com.felinedevelopment.felineapi.utility;
 
 import net.md_5.bungee.api.ChatColor;
 

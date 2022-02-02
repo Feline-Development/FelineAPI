@@ -1,4 +1,4 @@
-package dev.trixxie.felineapi.utility;
+package com.felinedevelopment.felineapi.utility;
 
 import org.bukkit.entity.Player;
 
